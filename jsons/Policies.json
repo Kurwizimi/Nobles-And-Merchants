@@ -574,7 +574,7 @@
             {
                 "name": "Fascism",
                 "uniques": [
-                    "+[100]% [Strategic] resource production",
+                    "[+100]% [Strategic] resource production",
                     "[+2] Movement <for [Great General] units>"
                 ],
                 "requires": ["Populism", "Militarism"],
