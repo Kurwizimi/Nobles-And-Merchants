@@ -284,7 +284,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction",
 		"requiredTech": "Construction",
-		"uniques": ["[+1 Happiness] <in cities connected to the capital>", "[+1 Happiness] [in capital] <for every [Arena]>" , "Provides [1] [Tourism] <after discovering [Flight]>"],
+		"uniques": ["[+1 Happiness] <in cities connected to the capital>", "[+1 Happiness] [in capital] <for every [[Arena] Building]>" , "Provides [1] [Tourism] <after discovering [Flight]>"],
 		"uniqueTo": "Rome (Julius Caesar)",
 	},
 	{
