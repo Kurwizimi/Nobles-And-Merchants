@@ -1134,7 +1134,7 @@
 		"gold": 6,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
-		"uniques": ["[+1 Happiness, +2 Culture, +3 Gold] from every [Castle]", "Provides [1] [Tourism] <for every [Castle]>" , "Provides [2] [Tourism] <after discovering [Flight]>",
+		"uniques": ["[+1 Happiness, +2 Culture, +3 Gold] from every [Castle]", "Provides [1] [Tourism] <for every [[Castle] Building]>" , "Provides [2] [Tourism] <after discovering [Flight]>",
 			"Must have an owned [Mountain] within [2] tiles"],
 		"requiredTech": "Railroads",
 		"quote": "'...the location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world.' - King Ludwig II of Bavaria"
