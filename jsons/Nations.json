@@ -265,7 +265,7 @@
 
         "favoredReligion": "Baptism",
 		"uniqueName": "Share the Wealth Society",
-		"uniques": ["[-15]% Yield from every [All] <in [{your} {non-[Capital]} {non-[in all cities connected to capital]}] cities> <hidden from users>", "[+10]% Yield from every [All] <in [{your} {non-[Capital]} {in all cities connected to capital}] cities> <hidden from users>", "Comment [-15% Yield from all your cities not connected to your capital]", "Comment [+10% Yield from all your cities connected to your capital]", "[+1 Culture, +2 Food] in cities on [River] tiles",]
+		"uniques": ["[-15]% Yield from every [All] <in [{Your} {non-[Capital]} {non-[in all cities connected to capital]}] cities> <hidden from users>", "[+10]% Yield from every [All] <in [{Your} {non-[Capital]} {in all cities connected to capital}] cities> <hidden from users>", "Comment [-15% Yield from all your cities not connected to your capital]", "Comment [+10% Yield from all your cities connected to your capital]", "[+1 Culture, +2 Food] in cities on [River] tiles",]
 		"cities": ["Baton Rouge","New Orleans","Lafayette","Shreveport","Monroe","De Ridder","Kenner","New Iberia","Slidell","Hammond",
 			"Alexandria","Natchitoches","Winnfield","Houma","Morgan City","Pearl River","Crowley","Abbeville","Sulphur","Minden",
 			"Bossier City","Bastrop","New Roads","Baker"],
@@ -357,7 +357,7 @@
 		"innerColor": [83, 0, 208],
 		"favoredReligion": "Pesedjed",
 		"uniqueName": "Gift of the Nile",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities] <in [river] tiles>"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities] <in [River] tiles>"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
