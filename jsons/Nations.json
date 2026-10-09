@@ -25,7 +25,7 @@
 		"adjective": ["Dutch"],
 		"startBias": ["Grassland", "River", "Coast"],
 		"preferredVictoryType": "Cultural",
-		"personality": "William of Orange",
+		"personality": "William",
 
 		"startIntroPart1": "Greetings to the wise and brave Prince William of Orange, who freed the Netherlands and gave strength to the Dutch people. In 1568, you led a rebellion against Spanish dominion, to gain freedom for your people, and therefore starting the Eighty Years' War. Your actions were all aimed to create one of Europe's first modern republics, the Seven United Provinces. The rebellion was the meaning of your very life and death, as it was also the cause of your assassination in 1584. But your death has given even more pride and courage to your people, to fight for liberty against any oppressors. Carved in history as the 'Father of the Fatherland', your name is a symbol of Dutch independence for eternity.",
         "startIntroPart2": "Brave Prince, your people ask for your wisdom to gain its freedom once more, and to illuminate the world with progressive and modern ideas. Will your new empire shine through the ages of history?",
@@ -144,7 +144,7 @@
 		"leaderName": "Friedrich",
 		"adjective": ["Prussian"],
 		"preferredVictoryType": "Domination",
-		"personality": "Otto von Bismarck",
+		"personality": "Bismarck",
 
         "startIntroPart1": "All Hail Der Alte Fritz: Frederick II 'The Great' of Prussia, who defended Prussia in the midst of the seven years war against all odds, while playing the concert of Europe on his flute. His battle tactics weren't exactly straight, yet it was that batttlewise gaiety that led him to beat Austria in the war of Austrian Succession. He also fashioned himself an enlightened despot, ruling the people with their needs in mind.",
         "startIntroPart2": "Oh king Frederick. Your people are bright, and lend you their iron will to lead Prussia once again. Will your new empire shine through the ages of history?",
@@ -214,7 +214,7 @@
 		"leaderName": "Calvin Coolidge",
 		"adjective": ["American"],
 		"preferredVictoryType": "Cultural",
-		"personality": "George Washington",
+		"personality": "Washington",
 
         "startIntroPart1": "Greetings President Coolidge, you strove for racial equality in periods of great tensions, you restored trust in the white house after Harding's many scandals and most important of all: you let the invisible hand of the market bless these United States with the roaring twenties, one of the most unpresidented periods of economic prosperity in the Arsenal of Democracy",
         "startIntroPart2": "Silent Carl, Will you once again lead the American people to a period of untold prosperity? Will your new empire shine through the ages of history?",
@@ -247,7 +247,7 @@
 		"adjective": ["Louisianan"],
 		"startBias": ["Marsh", "River", "Grassland"],
 		"preferredVictoryType": "Cultural",
-		"personality": "George Washington",
+		"personality": "Washington",
 
         "startIntroPart1": "Governor Huey P. Long, we honor your commitment to a more economically equal Louisiana, one where every man is free to be a king! You paved the roads, both literally and methaphorically, to the modern-day pelican state. Your reforms rivalling FDR's are of great importance to our bayou, even if Pushed through by populism and authority.",
         "startIntroPart2": "Kingfish, will you show to the world the wonders of Mardis Gras, and help the little men of Louisiana? Will your new empire shine through the ages of history?",
@@ -308,7 +308,7 @@
 		"adjective": ["Indian"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
-		"personality": "Darius",
+		"personality": "Darius I",
 
         "startIntroPart1": "Trust your ambition, Chandragupta, for it led you to unify all of India. Unleash war elephants upon any rival who curses your name, proud Mauryan king. Once you reclaim the land for your people, your stepwells shall see it flourish. May the borders of your empire expand forever. ",
         "startIntroPart2": "Chandragupta, may you once again lead the Maurya to greatness and make it shine bright through history?",
@@ -462,7 +462,7 @@
 		"leaderName": "Yongle",
 		"adjective": ["Ming"],
 		"preferredVictoryType": "Diplomatic",
-		"personality": "William of Orange",
+		"personality": "William",
 
         "startIntroPart1": "Hail Yongle, Emporer of all of China under the Ming Dynasty. Your treasure fleets collected tribute all over Asia, ensuring the Mandate of Heaven.",
         "startIntroPart2": "Oh Great Yongle Emporer of Great Ming, will you once again lead Ming into a time of unmatched prowess, and lead an empire that will shine bright in history?",
