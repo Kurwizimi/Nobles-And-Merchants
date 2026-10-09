@@ -575,7 +575,7 @@
 
 		"favoredReligion": "Orenda",
 		"uniqueName": "Black Warrior",
-		"uniques": ["[+10]% Strength <when attacking> <in [non-{Your}] cities>", "Comment [Instantly gain [50] [Culture] and [Gold] per era when capturing a city]", "[+10]% [Gold] <in [non-{Annexed}] cities>", "[+20]% [Gold] <in [Annexed] cities>",
+		"uniques": ["[+10]% Strength <when attacking> <in [non-{Your}] cities>", "Comment [Instantly gain [50] [Culture] and [Gold] per era when capturing a city]", "[+10]% [Gold] <in [non-[Annexed]] cities>", "[+20]% [Gold] <in [Annexed] cities>",
 		"Instantly gain [50] [Culture] <during the [Ancient era]> <upon conquering a city> <hidden from users>",
 		"Instantly gain [100] [Culture] <during the [Classical era]> <upon conquering a city> <hidden from users>",
 		"Instantly gain [150] [Culture] <during the [Medieval era]> <upon conquering a city> <hidden from users>",
