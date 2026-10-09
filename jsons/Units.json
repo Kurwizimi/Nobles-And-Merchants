@@ -371,7 +371,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
-		"uniques": ["[+15]% Strength <when fighting in [Friendly] tiles>", "[+15]% Strength <when defending> <when fighting in [City Center] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Friendly] tiles>", "[+15]% Strength <when defending> <when fighting in [City center] tiles>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -413,7 +413,7 @@
 		"strength": 20,
 		"cost": 112,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+30]% Strength <when defending> <when fighting in [City Center] tiles>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+30]% Strength <when defending> <when fighting in [City center] tiles>"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
@@ -744,7 +744,7 @@
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"promotions": ["Ambush I"],
-		"uniques": ["[+25]% Strength <when defending> <when fighting in [City Center] tiles>"],
+		"uniques": ["[+25]% Strength <when defending> <when fighting in [City center] tiles>"],
 		"attackSound": "shot"
 	},
 	{
@@ -1300,7 +1300,7 @@
 		"unitType": "Civilian Water",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Naval] units within [2] tiles",
+            "[+15]% Strength bonus for [Water] units within [2] tiles",
 			"Can be earned through combat",
 			"Cannot enter ocean tiles <before discovering [Astronomy]>",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
@@ -1388,7 +1388,7 @@
 		"name": "Rock Band",
 		"unitType": "Civilian",
 		"uniques": [
-            "Can transform to [Great Musician] <in [non-[Your]] tiles> <costs [5] [Tourism Goal]> <by consuming this unit>",
+            "Can transform to [Great Musician] <in [non-[your]] tiles> <costs [5] [Tourism Goal]> <by consuming this unit>",
             "May enter foreign tiles without open borders",
 			"Can be purchased with [Faith] [in all cities]",
 			"[-1] Sight", "Unbuildable", "Only available <when religion is enabled>"],
@@ -1401,7 +1401,7 @@
 		"name": "Celebrity",
 		"unitType": "Civilian",
 		"uniques": [
-            "Can transform to [Great Merchant] <in [non-[Your]] tiles> <costs [5] [Tourism Goal]> <by consuming this unit>",
+            "Can transform to [Great Merchant] <in [non-[your]] tiles> <costs [5] [Tourism Goal]> <by consuming this unit>",
             "May enter foreign tiles without open borders",
 			"Can be purchased with [Gold] [in all cities]",
 			"[-1] Sight", "Unbuildable"],
